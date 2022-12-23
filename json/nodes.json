@@ -1,0 +1,4336 @@
+{
+  "23": [
+    {
+      "id": "1",
+      "x_coordinate": "3.75",
+      "y_coordinate": "8.75"
+    },
+    {
+      "id": "2",
+      "x_coordinate": "3.75",
+      "y_coordinate": "7.5"
+    },
+    {
+      "id": "3",
+      "x_coordinate": "3.75",
+      "y_coordinate": "6.25"
+    },
+    {
+      "id": "4",
+      "x_coordinate": "2.",
+      "y_coordinate": "6.25"
+    },
+    {
+      "id": "5",
+      "x_coordinate": "2.",
+      "y_coordinate": "8.75"
+    },
+    {
+      "id": "6",
+      "x_coordinate": "2.",
+      "y_coordinate": "7.5"
+    },
+    {
+      "id": "7",
+      "x_coordinate": "5.",
+      "y_coordinate": "6.25"
+    },
+    {
+      "id": "8",
+      "x_coordinate": "5.",
+      "y_coordinate": "8.75"
+    },
+    {
+      "id": "9",
+      "x_coordinate": "5.",
+      "y_coordinate": "7.5"
+    },
+    {
+      "id": "10",
+      "x_coordinate": "7.5",
+      "y_coordinate": "7.5"
+    },
+    {
+      "id": "11",
+      "x_coordinate": "7.5",
+      "y_coordinate": "5."
+    },
+    {
+      "id": "12",
+      "x_coordinate": "7.5",
+      "y_coordinate": "2.5"
+    },
+    {
+      "id": "13",
+      "x_coordinate": "7.5",
+      "y_coordinate": "0."
+    },
+    {
+      "id": "14",
+      "x_coordinate": "2.",
+      "y_coordinate": "3.75"
+    },
+    {
+      "id": "15",
+      "x_coordinate": "2.",
+      "y_coordinate": "5."
+    },
+    {
+      "id": "16",
+      "x_coordinate": "5.",
+      "y_coordinate": "5."
+    },
+    {
+      "id": "17",
+      "x_coordinate": "3.75",
+      "y_coordinate": "5."
+    },
+    {
+      "id": "18",
+      "x_coordinate": "3.75",
+      "y_coordinate": "3.75"
+    },
+    {
+      "id": "19",
+      "x_coordinate": "5.",
+      "y_coordinate": "3.75"
+    },
+    {
+      "id": "20",
+      "x_coordinate": "5.",
+      "y_coordinate": "2.5"
+    },
+    {
+      "id": "21",
+      "x_coordinate": "3.75",
+      "y_coordinate": "2.5"
+    },
+    {
+      "id": "22",
+      "x_coordinate": "5.",
+      "y_coordinate": "0."
+    },
+    {
+      "id": "23",
+      "x_coordinate": "5.",
+      "y_coordinate": "1.25"
+    },
+    {
+      "id": "24",
+      "x_coordinate": "3.75",
+      "y_coordinate": "1.25"
+    },
+    {
+      "id": "25",
+      "x_coordinate": "3.75",
+      "y_coordinate": "0."
+    },
+    {
+      "id": "26",
+      "x_coordinate": "2.",
+      "y_coordinate": "2.5"
+    },
+    {
+      "id": "27",
+      "x_coordinate": "2.",
+      "y_coordinate": "1.25"
+    },
+    {
+      "id": "28",
+      "x_coordinate": "2.",
+      "y_coordinate": "0."
+    },
+    {
+      "id": "29",
+      "x_coordinate": "10.",
+      "y_coordinate": "7.5"
+    },
+    {
+      "id": "30",
+      "x_coordinate": "10.",
+      "y_coordinate": "5."
+    },
+    {
+      "id": "31",
+      "x_coordinate": "15.",
+      "y_coordinate": "5."
+    },
+    {
+      "id": "32",
+      "x_coordinate": "10.",
+      "y_coordinate": "2.5"
+    },
+    {
+      "id": "33",
+      "x_coordinate": "10.",
+      "y_coordinate": "0."
+    },
+    {
+      "id": "34",
+      "x_coordinate": "15.",
+      "y_coordinate": "0."
+    },
+    {
+      "id": "35",
+      "x_coordinate": "20.",
+      "y_coordinate": "5."
+    },
+    {
+      "id": "36",
+      "x_coordinate": "20.",
+      "y_coordinate": "0."
+    },
+    {
+      "id": "37",
+      "x_coordinate": "30.",
+      "y_coordinate": "0."
+    },
+    {
+      "id": "38",
+      "x_coordinate": "40.",
+      "y_coordinate": "0."
+    },
+    {
+      "id": "39",
+      "x_coordinate": "50.",
+      "y_coordinate": "0."
+    },
+    {
+      "id": "40",
+      "x_coordinate": "60.",
+      "y_coordinate": "0."
+    },
+    {
+      "id": "41",
+      "x_coordinate": "70.",
+      "y_coordinate": "0."
+    },
+    {
+      "id": "42",
+      "x_coordinate": "80.",
+      "y_coordinate": "0."
+    },
+    {
+      "id": "43",
+      "x_coordinate": "90.",
+      "y_coordinate": "0."
+    },
+    {
+      "id": "44",
+      "x_coordinate": "100.",
+      "y_coordinate": "0."
+    },
+    {
+      "id": "45",
+      "x_coordinate": "3.75",
+      "y_coordinate": "18.75"
+    },
+    {
+      "id": "46",
+      "x_coordinate": "3.75",
+      "y_coordinate": "17.5"
+    },
+    {
+      "id": "47",
+      "x_coordinate": "3.75",
+      "y_coordinate": "16.25"
+    },
+    {
+      "id": "48",
+      "x_coordinate": "2.",
+      "y_coordinate": "16.25"
+    },
+    {
+      "id": "49",
+      "x_coordinate": "2.",
+      "y_coordinate": "17.5"
+    },
+    {
+      "id": "50",
+      "x_coordinate": "2.",
+      "y_coordinate": "18.75"
+    },
+    {
+      "id": "51",
+      "x_coordinate": "5.",
+      "y_coordinate": "16.25"
+    },
+    {
+      "id": "52",
+      "x_coordinate": "5.",
+      "y_coordinate": "18.75"
+    },
+    {
+      "id": "53",
+      "x_coordinate": "5.",
+      "y_coordinate": "17.5"
+    },
+    {
+      "id": "54",
+      "x_coordinate": "7.5",
+      "y_coordinate": "17.5"
+    },
+    {
+      "id": "55",
+      "x_coordinate": "7.5",
+      "y_coordinate": "15."
+    },
+    {
+      "id": "56",
+      "x_coordinate": "7.5",
+      "y_coordinate": "12.5"
+    },
+    {
+      "id": "57",
+      "x_coordinate": "7.5",
+      "y_coordinate": "10."
+    },
+    {
+      "id": "58",
+      "x_coordinate": "2.",
+      "y_coordinate": "13.75"
+    },
+    {
+      "id": "59",
+      "x_coordinate": "2.",
+      "y_coordinate": "15."
+    },
+    {
+      "id": "60",
+      "x_coordinate": "5.",
+      "y_coordinate": "15."
+    },
+    {
+      "id": "61",
+      "x_coordinate": "3.75",
+      "y_coordinate": "15."
+    },
+    {
+      "id": "62",
+      "x_coordinate": "3.75",
+      "y_coordinate": "13.75"
+    },
+    {
+      "id": "63",
+      "x_coordinate": "5.",
+      "y_coordinate": "13.75"
+    },
+    {
+      "id": "64",
+      "x_coordinate": "5.",
+      "y_coordinate": "12.5"
+    },
+    {
+      "id": "65",
+      "x_coordinate": "3.75",
+      "y_coordinate": "12.5"
+    },
+    {
+      "id": "66",
+      "x_coordinate": "5.",
+      "y_coordinate": "10."
+    },
+    {
+      "id": "67",
+      "x_coordinate": "5.",
+      "y_coordinate": "11.25"
+    },
+    {
+      "id": "68",
+      "x_coordinate": "3.75",
+      "y_coordinate": "11.25"
+    },
+    {
+      "id": "69",
+      "x_coordinate": "3.75",
+      "y_coordinate": "10."
+    },
+    {
+      "id": "70",
+      "x_coordinate": "2.",
+      "y_coordinate": "12.5"
+    },
+    {
+      "id": "71",
+      "x_coordinate": "2.",
+      "y_coordinate": "10."
+    },
+    {
+      "id": "72",
+      "x_coordinate": "2.",
+      "y_coordinate": "11.25"
+    },
+    {
+      "id": "73",
+      "x_coordinate": "10.",
+      "y_coordinate": "17.5"
+    },
+    {
+      "id": "74",
+      "x_coordinate": "10.",
+      "y_coordinate": "15."
+    },
+    {
+      "id": "75",
+      "x_coordinate": "15.",
+      "y_coordinate": "15."
+    },
+    {
+      "id": "76",
+      "x_coordinate": "10.",
+      "y_coordinate": "12.5"
+    },
+    {
+      "id": "77",
+      "x_coordinate": "10.",
+      "y_coordinate": "10."
+    },
+    {
+      "id": "78",
+      "x_coordinate": "15.",
+      "y_coordinate": "10."
+    },
+    {
+      "id": "79",
+      "x_coordinate": "20.",
+      "y_coordinate": "15."
+    },
+    {
+      "id": "80",
+      "x_coordinate": "20.",
+      "y_coordinate": "10."
+    },
+    {
+      "id": "81",
+      "x_coordinate": "30.",
+      "y_coordinate": "10."
+    },
+    {
+      "id": "82",
+      "x_coordinate": "40.",
+      "y_coordinate": "10."
+    },
+    {
+      "id": "83",
+      "x_coordinate": "50.",
+      "y_coordinate": "10."
+    },
+    {
+      "id": "84",
+      "x_coordinate": "60.",
+      "y_coordinate": "10."
+    },
+    {
+      "id": "85",
+      "x_coordinate": "70.",
+      "y_coordinate": "10."
+    },
+    {
+      "id": "86",
+      "x_coordinate": "80.",
+      "y_coordinate": "10."
+    },
+    {
+      "id": "87",
+      "x_coordinate": "90.",
+      "y_coordinate": "10."
+    },
+    {
+      "id": "88",
+      "x_coordinate": "100.",
+      "y_coordinate": "10."
+    },
+    {
+      "id": "89",
+      "x_coordinate": "3.75",
+      "y_coordinate": "28.75"
+    },
+    {
+      "id": "90",
+      "x_coordinate": "3.75",
+      "y_coordinate": "27.5"
+    },
+    {
+      "id": "91",
+      "x_coordinate": "3.75",
+      "y_coordinate": "26.25"
+    },
+    {
+      "id": "92",
+      "x_coordinate": "2.",
+      "y_coordinate": "26.25"
+    },
+    {
+      "id": "93",
+      "x_coordinate": "2.",
+      "y_coordinate": "28.75"
+    },
+    {
+      "id": "94",
+      "x_coordinate": "2.",
+      "y_coordinate": "27.5"
+    },
+    {
+      "id": "95",
+      "x_coordinate": "5.",
+      "y_coordinate": "26.25"
+    },
+    {
+      "id": "96",
+      "x_coordinate": "5.",
+      "y_coordinate": "28.75"
+    },
+    {
+      "id": "97",
+      "x_coordinate": "5.",
+      "y_coordinate": "27.5"
+    },
+    {
+      "id": "98",
+      "x_coordinate": "7.5",
+      "y_coordinate": "27.5"
+    },
+    {
+      "id": "99",
+      "x_coordinate": "7.5",
+      "y_coordinate": "25."
+    },
+    {
+      "id": "100",
+      "x_coordinate": "7.5",
+      "y_coordinate": "22.5"
+    },
+    {
+      "id": "101",
+      "x_coordinate": "7.5",
+      "y_coordinate": "20."
+    },
+    {
+      "id": "102",
+      "x_coordinate": "2.",
+      "y_coordinate": "25."
+    },
+    {
+      "id": "103",
+      "x_coordinate": "2.",
+      "y_coordinate": "23.75"
+    },
+    {
+      "id": "104",
+      "x_coordinate": "5.",
+      "y_coordinate": "25."
+    },
+    {
+      "id": "105",
+      "x_coordinate": "3.75",
+      "y_coordinate": "25."
+    },
+    {
+      "id": "106",
+      "x_coordinate": "3.75",
+      "y_coordinate": "23.75"
+    },
+    {
+      "id": "107",
+      "x_coordinate": "5.",
+      "y_coordinate": "23.75"
+    },
+    {
+      "id": "108",
+      "x_coordinate": "5.",
+      "y_coordinate": "22.5"
+    },
+    {
+      "id": "109",
+      "x_coordinate": "3.75",
+      "y_coordinate": "22.5"
+    },
+    {
+      "id": "110",
+      "x_coordinate": "5.",
+      "y_coordinate": "20."
+    },
+    {
+      "id": "111",
+      "x_coordinate": "5.",
+      "y_coordinate": "21.25"
+    },
+    {
+      "id": "112",
+      "x_coordinate": "3.75",
+      "y_coordinate": "21.25"
+    },
+    {
+      "id": "113",
+      "x_coordinate": "3.75",
+      "y_coordinate": "20."
+    },
+    {
+      "id": "114",
+      "x_coordinate": "2.",
+      "y_coordinate": "22.5"
+    },
+    {
+      "id": "115",
+      "x_coordinate": "2.",
+      "y_coordinate": "20."
+    },
+    {
+      "id": "116",
+      "x_coordinate": "2.",
+      "y_coordinate": "21.25"
+    },
+    {
+      "id": "117",
+      "x_coordinate": "10.",
+      "y_coordinate": "27.5"
+    },
+    {
+      "id": "118",
+      "x_coordinate": "10.",
+      "y_coordinate": "25."
+    },
+    {
+      "id": "119",
+      "x_coordinate": "15.",
+      "y_coordinate": "25."
+    },
+    {
+      "id": "120",
+      "x_coordinate": "10.",
+      "y_coordinate": "22.5"
+    },
+    {
+      "id": "121",
+      "x_coordinate": "10.",
+      "y_coordinate": "20."
+    },
+    {
+      "id": "122",
+      "x_coordinate": "15.",
+      "y_coordinate": "20."
+    },
+    {
+      "id": "123",
+      "x_coordinate": "20.",
+      "y_coordinate": "25."
+    },
+    {
+      "id": "124",
+      "x_coordinate": "20.",
+      "y_coordinate": "20."
+    },
+    {
+      "id": "125",
+      "x_coordinate": "30.",
+      "y_coordinate": "20."
+    },
+    {
+      "id": "126",
+      "x_coordinate": "40.",
+      "y_coordinate": "20."
+    },
+    {
+      "id": "127",
+      "x_coordinate": "50.",
+      "y_coordinate": "20."
+    },
+    {
+      "id": "128",
+      "x_coordinate": "60.",
+      "y_coordinate": "20."
+    },
+    {
+      "id": "129",
+      "x_coordinate": "70.",
+      "y_coordinate": "20."
+    },
+    {
+      "id": "130",
+      "x_coordinate": "80.",
+      "y_coordinate": "20."
+    },
+    {
+      "id": "131",
+      "x_coordinate": "90.",
+      "y_coordinate": "20."
+    },
+    {
+      "id": "132",
+      "x_coordinate": "100.",
+      "y_coordinate": "20."
+    },
+    {
+      "id": "133",
+      "x_coordinate": "3.75",
+      "y_coordinate": "38.75"
+    },
+    {
+      "id": "134",
+      "x_coordinate": "3.75",
+      "y_coordinate": "37.5"
+    },
+    {
+      "id": "135",
+      "x_coordinate": "3.75",
+      "y_coordinate": "36.25"
+    },
+    {
+      "id": "136",
+      "x_coordinate": "2.",
+      "y_coordinate": "36.25"
+    },
+    {
+      "id": "137",
+      "x_coordinate": "2.",
+      "y_coordinate": "38.75"
+    },
+    {
+      "id": "138",
+      "x_coordinate": "2.",
+      "y_coordinate": "37.5"
+    },
+    {
+      "id": "139",
+      "x_coordinate": "5.",
+      "y_coordinate": "36.25"
+    },
+    {
+      "id": "140",
+      "x_coordinate": "5.",
+      "y_coordinate": "38.75"
+    },
+    {
+      "id": "141",
+      "x_coordinate": "5.",
+      "y_coordinate": "37.5"
+    },
+    {
+      "id": "142",
+      "x_coordinate": "7.5",
+      "y_coordinate": "37.5"
+    },
+    {
+      "id": "143",
+      "x_coordinate": "7.5",
+      "y_coordinate": "35."
+    },
+    {
+      "id": "144",
+      "x_coordinate": "7.5",
+      "y_coordinate": "32.5"
+    },
+    {
+      "id": "145",
+      "x_coordinate": "7.5",
+      "y_coordinate": "30."
+    },
+    {
+      "id": "146",
+      "x_coordinate": "2.",
+      "y_coordinate": "33.75"
+    },
+    {
+      "id": "147",
+      "x_coordinate": "2.",
+      "y_coordinate": "35."
+    },
+    {
+      "id": "148",
+      "x_coordinate": "5.",
+      "y_coordinate": "35."
+    },
+    {
+      "id": "149",
+      "x_coordinate": "3.75",
+      "y_coordinate": "35."
+    },
+    {
+      "id": "150",
+      "x_coordinate": "3.75",
+      "y_coordinate": "33.75"
+    },
+    {
+      "id": "151",
+      "x_coordinate": "5.",
+      "y_coordinate": "33.75"
+    },
+    {
+      "id": "152",
+      "x_coordinate": "5.",
+      "y_coordinate": "32.5"
+    },
+    {
+      "id": "153",
+      "x_coordinate": "3.75",
+      "y_coordinate": "32.5"
+    },
+    {
+      "id": "154",
+      "x_coordinate": "5.",
+      "y_coordinate": "30."
+    },
+    {
+      "id": "155",
+      "x_coordinate": "5.",
+      "y_coordinate": "31.25"
+    },
+    {
+      "id": "156",
+      "x_coordinate": "3.75",
+      "y_coordinate": "31.25"
+    },
+    {
+      "id": "157",
+      "x_coordinate": "3.75",
+      "y_coordinate": "30."
+    },
+    {
+      "id": "158",
+      "x_coordinate": "2.",
+      "y_coordinate": "32.5"
+    },
+    {
+      "id": "159",
+      "x_coordinate": "2.",
+      "y_coordinate": "31.25"
+    },
+    {
+      "id": "160",
+      "x_coordinate": "2.",
+      "y_coordinate": "30."
+    },
+    {
+      "id": "161",
+      "x_coordinate": "10.",
+      "y_coordinate": "37.5"
+    },
+    {
+      "id": "162",
+      "x_coordinate": "10.",
+      "y_coordinate": "35."
+    },
+    {
+      "id": "163",
+      "x_coordinate": "15.",
+      "y_coordinate": "35."
+    },
+    {
+      "id": "164",
+      "x_coordinate": "10.",
+      "y_coordinate": "32.5"
+    },
+    {
+      "id": "165",
+      "x_coordinate": "10.",
+      "y_coordinate": "30."
+    },
+    {
+      "id": "166",
+      "x_coordinate": "15.",
+      "y_coordinate": "30."
+    },
+    {
+      "id": "167",
+      "x_coordinate": "20.",
+      "y_coordinate": "35."
+    },
+    {
+      "id": "168",
+      "x_coordinate": "20.",
+      "y_coordinate": "30."
+    },
+    {
+      "id": "169",
+      "x_coordinate": "30.",
+      "y_coordinate": "30."
+    },
+    {
+      "id": "170",
+      "x_coordinate": "40.",
+      "y_coordinate": "30."
+    },
+    {
+      "id": "171",
+      "x_coordinate": "50.",
+      "y_coordinate": "30."
+    },
+    {
+      "id": "172",
+      "x_coordinate": "60.",
+      "y_coordinate": "30."
+    },
+    {
+      "id": "173",
+      "x_coordinate": "70.",
+      "y_coordinate": "30."
+    },
+    {
+      "id": "174",
+      "x_coordinate": "80.",
+      "y_coordinate": "30."
+    },
+    {
+      "id": "175",
+      "x_coordinate": "90.",
+      "y_coordinate": "30."
+    },
+    {
+      "id": "176",
+      "x_coordinate": "100.",
+      "y_coordinate": "30."
+    },
+    {
+      "id": "177",
+      "x_coordinate": "3.75",
+      "y_coordinate": "48.75"
+    },
+    {
+      "id": "178",
+      "x_coordinate": "3.75",
+      "y_coordinate": "47.5"
+    },
+    {
+      "id": "179",
+      "x_coordinate": "3.75",
+      "y_coordinate": "46.25"
+    },
+    {
+      "id": "180",
+      "x_coordinate": "2.",
+      "y_coordinate": "46.25"
+    },
+    {
+      "id": "181",
+      "x_coordinate": "2.",
+      "y_coordinate": "47.5"
+    },
+    {
+      "id": "182",
+      "x_coordinate": "2.",
+      "y_coordinate": "48.75"
+    },
+    {
+      "id": "183",
+      "x_coordinate": "5.",
+      "y_coordinate": "46.25"
+    },
+    {
+      "id": "184",
+      "x_coordinate": "5.",
+      "y_coordinate": "48.75"
+    },
+    {
+      "id": "185",
+      "x_coordinate": "5.",
+      "y_coordinate": "47.5"
+    },
+    {
+      "id": "186",
+      "x_coordinate": "7.5",
+      "y_coordinate": "47.5"
+    },
+    {
+      "id": "187",
+      "x_coordinate": "7.5",
+      "y_coordinate": "45."
+    },
+    {
+      "id": "188",
+      "x_coordinate": "7.5",
+      "y_coordinate": "42.5"
+    },
+    {
+      "id": "189",
+      "x_coordinate": "7.5",
+      "y_coordinate": "40."
+    },
+    {
+      "id": "190",
+      "x_coordinate": "2.",
+      "y_coordinate": "45."
+    },
+    {
+      "id": "191",
+      "x_coordinate": "2.",
+      "y_coordinate": "43.75"
+    },
+    {
+      "id": "192",
+      "x_coordinate": "5.",
+      "y_coordinate": "45."
+    },
+    {
+      "id": "193",
+      "x_coordinate": "3.75",
+      "y_coordinate": "45."
+    },
+    {
+      "id": "194",
+      "x_coordinate": "3.75",
+      "y_coordinate": "43.75"
+    },
+    {
+      "id": "195",
+      "x_coordinate": "5.",
+      "y_coordinate": "43.75"
+    },
+    {
+      "id": "196",
+      "x_coordinate": "5.",
+      "y_coordinate": "42.5"
+    },
+    {
+      "id": "197",
+      "x_coordinate": "3.75",
+      "y_coordinate": "42.5"
+    },
+    {
+      "id": "198",
+      "x_coordinate": "5.",
+      "y_coordinate": "40."
+    },
+    {
+      "id": "199",
+      "x_coordinate": "5.",
+      "y_coordinate": "41.25"
+    },
+    {
+      "id": "200",
+      "x_coordinate": "3.75",
+      "y_coordinate": "41.25"
+    },
+    {
+      "id": "201",
+      "x_coordinate": "3.75",
+      "y_coordinate": "40."
+    },
+    {
+      "id": "202",
+      "x_coordinate": "2.",
+      "y_coordinate": "42.5"
+    },
+    {
+      "id": "203",
+      "x_coordinate": "2.",
+      "y_coordinate": "41.25"
+    },
+    {
+      "id": "204",
+      "x_coordinate": "2.",
+      "y_coordinate": "40."
+    },
+    {
+      "id": "205",
+      "x_coordinate": "10.",
+      "y_coordinate": "47.5"
+    },
+    {
+      "id": "206",
+      "x_coordinate": "10.",
+      "y_coordinate": "45."
+    },
+    {
+      "id": "207",
+      "x_coordinate": "15.",
+      "y_coordinate": "45."
+    },
+    {
+      "id": "208",
+      "x_coordinate": "10.",
+      "y_coordinate": "42.5"
+    },
+    {
+      "id": "209",
+      "x_coordinate": "10.",
+      "y_coordinate": "40."
+    },
+    {
+      "id": "210",
+      "x_coordinate": "15.",
+      "y_coordinate": "40."
+    },
+    {
+      "id": "211",
+      "x_coordinate": "20.",
+      "y_coordinate": "45."
+    },
+    {
+      "id": "212",
+      "x_coordinate": "20.",
+      "y_coordinate": "40."
+    },
+    {
+      "id": "213",
+      "x_coordinate": "30.",
+      "y_coordinate": "40."
+    },
+    {
+      "id": "214",
+      "x_coordinate": "40.",
+      "y_coordinate": "40."
+    },
+    {
+      "id": "215",
+      "x_coordinate": "50.",
+      "y_coordinate": "40."
+    },
+    {
+      "id": "216",
+      "x_coordinate": "60.",
+      "y_coordinate": "40."
+    },
+    {
+      "id": "217",
+      "x_coordinate": "70.",
+      "y_coordinate": "40."
+    },
+    {
+      "id": "218",
+      "x_coordinate": "80.",
+      "y_coordinate": "40."
+    },
+    {
+      "id": "219",
+      "x_coordinate": "90.",
+      "y_coordinate": "40."
+    },
+    {
+      "id": "220",
+      "x_coordinate": "100.",
+      "y_coordinate": "40."
+    },
+    {
+      "id": "221",
+      "x_coordinate": "3.75",
+      "y_coordinate": "58.75"
+    },
+    {
+      "id": "222",
+      "x_coordinate": "3.75",
+      "y_coordinate": "57.5"
+    },
+    {
+      "id": "223",
+      "x_coordinate": "3.75",
+      "y_coordinate": "56.25"
+    },
+    {
+      "id": "224",
+      "x_coordinate": "2.",
+      "y_coordinate": "56.25"
+    },
+    {
+      "id": "225",
+      "x_coordinate": "2.",
+      "y_coordinate": "58.75"
+    },
+    {
+      "id": "226",
+      "x_coordinate": "2.",
+      "y_coordinate": "57.5"
+    },
+    {
+      "id": "227",
+      "x_coordinate": "5.",
+      "y_coordinate": "56.25"
+    },
+    {
+      "id": "228",
+      "x_coordinate": "5.",
+      "y_coordinate": "58.75"
+    },
+    {
+      "id": "229",
+      "x_coordinate": "5.",
+      "y_coordinate": "57.5"
+    },
+    {
+      "id": "230",
+      "x_coordinate": "7.5",
+      "y_coordinate": "57.5"
+    },
+    {
+      "id": "231",
+      "x_coordinate": "7.5",
+      "y_coordinate": "55."
+    },
+    {
+      "id": "232",
+      "x_coordinate": "7.5",
+      "y_coordinate": "52.5"
+    },
+    {
+      "id": "233",
+      "x_coordinate": "7.5",
+      "y_coordinate": "50."
+    },
+    {
+      "id": "234",
+      "x_coordinate": "2.",
+      "y_coordinate": "53.75"
+    },
+    {
+      "id": "235",
+      "x_coordinate": "2.",
+      "y_coordinate": "55."
+    },
+    {
+      "id": "236",
+      "x_coordinate": "5.",
+      "y_coordinate": "55."
+    },
+    {
+      "id": "237",
+      "x_coordinate": "3.75",
+      "y_coordinate": "55."
+    },
+    {
+      "id": "238",
+      "x_coordinate": "3.75",
+      "y_coordinate": "53.75"
+    },
+    {
+      "id": "239",
+      "x_coordinate": "5.",
+      "y_coordinate": "53.75"
+    },
+    {
+      "id": "240",
+      "x_coordinate": "5.",
+      "y_coordinate": "52.5"
+    },
+    {
+      "id": "241",
+      "x_coordinate": "3.75",
+      "y_coordinate": "52.5"
+    },
+    {
+      "id": "242",
+      "x_coordinate": "5.",
+      "y_coordinate": "50."
+    },
+    {
+      "id": "243",
+      "x_coordinate": "5.",
+      "y_coordinate": "51.25"
+    },
+    {
+      "id": "244",
+      "x_coordinate": "3.75",
+      "y_coordinate": "51.25"
+    },
+    {
+      "id": "245",
+      "x_coordinate": "3.75",
+      "y_coordinate": "50."
+    },
+    {
+      "id": "246",
+      "x_coordinate": "2.",
+      "y_coordinate": "52.5"
+    },
+    {
+      "id": "247",
+      "x_coordinate": "2.",
+      "y_coordinate": "50."
+    },
+    {
+      "id": "248",
+      "x_coordinate": "2.",
+      "y_coordinate": "51.25"
+    },
+    {
+      "id": "249",
+      "x_coordinate": "10.",
+      "y_coordinate": "57.5"
+    },
+    {
+      "id": "250",
+      "x_coordinate": "10.",
+      "y_coordinate": "55."
+    },
+    {
+      "id": "251",
+      "x_coordinate": "15.",
+      "y_coordinate": "55."
+    },
+    {
+      "id": "252",
+      "x_coordinate": "10.",
+      "y_coordinate": "52.5"
+    },
+    {
+      "id": "253",
+      "x_coordinate": "10.",
+      "y_coordinate": "50."
+    },
+    {
+      "id": "254",
+      "x_coordinate": "15.",
+      "y_coordinate": "50."
+    },
+    {
+      "id": "255",
+      "x_coordinate": "20.",
+      "y_coordinate": "55."
+    },
+    {
+      "id": "256",
+      "x_coordinate": "20.",
+      "y_coordinate": "50."
+    },
+    {
+      "id": "257",
+      "x_coordinate": "30.",
+      "y_coordinate": "50."
+    },
+    {
+      "id": "258",
+      "x_coordinate": "40.",
+      "y_coordinate": "50."
+    },
+    {
+      "id": "259",
+      "x_coordinate": "50.",
+      "y_coordinate": "50."
+    },
+    {
+      "id": "260",
+      "x_coordinate": "60.",
+      "y_coordinate": "50."
+    },
+    {
+      "id": "261",
+      "x_coordinate": "70.",
+      "y_coordinate": "50."
+    },
+    {
+      "id": "262",
+      "x_coordinate": "80.",
+      "y_coordinate": "50."
+    },
+    {
+      "id": "263",
+      "x_coordinate": "90.",
+      "y_coordinate": "50."
+    },
+    {
+      "id": "264",
+      "x_coordinate": "100.",
+      "y_coordinate": "50."
+    },
+    {
+      "id": "265",
+      "x_coordinate": "3.75",
+      "y_coordinate": "68.75"
+    },
+    {
+      "id": "266",
+      "x_coordinate": "3.75",
+      "y_coordinate": "67.5"
+    },
+    {
+      "id": "267",
+      "x_coordinate": "3.75",
+      "y_coordinate": "66.25"
+    },
+    {
+      "id": "268",
+      "x_coordinate": "2.",
+      "y_coordinate": "66.25"
+    },
+    {
+      "id": "269",
+      "x_coordinate": "2.",
+      "y_coordinate": "67.5"
+    },
+    {
+      "id": "270",
+      "x_coordinate": "2.",
+      "y_coordinate": "68.75"
+    },
+    {
+      "id": "271",
+      "x_coordinate": "5.",
+      "y_coordinate": "66.25"
+    },
+    {
+      "id": "272",
+      "x_coordinate": "5.",
+      "y_coordinate": "68.75"
+    },
+    {
+      "id": "273",
+      "x_coordinate": "5.",
+      "y_coordinate": "67.5"
+    },
+    {
+      "id": "274",
+      "x_coordinate": "7.5",
+      "y_coordinate": "67.5"
+    },
+    {
+      "id": "275",
+      "x_coordinate": "7.5",
+      "y_coordinate": "65."
+    },
+    {
+      "id": "276",
+      "x_coordinate": "7.5",
+      "y_coordinate": "62.5"
+    },
+    {
+      "id": "277",
+      "x_coordinate": "7.5",
+      "y_coordinate": "60."
+    },
+    {
+      "id": "278",
+      "x_coordinate": "2.",
+      "y_coordinate": "63.75"
+    },
+    {
+      "id": "279",
+      "x_coordinate": "2.",
+      "y_coordinate": "65."
+    },
+    {
+      "id": "280",
+      "x_coordinate": "5.",
+      "y_coordinate": "65."
+    },
+    {
+      "id": "281",
+      "x_coordinate": "3.75",
+      "y_coordinate": "65."
+    },
+    {
+      "id": "282",
+      "x_coordinate": "3.75",
+      "y_coordinate": "63.75"
+    },
+    {
+      "id": "283",
+      "x_coordinate": "5.",
+      "y_coordinate": "63.75"
+    },
+    {
+      "id": "284",
+      "x_coordinate": "5.",
+      "y_coordinate": "62.5"
+    },
+    {
+      "id": "285",
+      "x_coordinate": "3.75",
+      "y_coordinate": "62.5"
+    },
+    {
+      "id": "286",
+      "x_coordinate": "5.",
+      "y_coordinate": "60."
+    },
+    {
+      "id": "287",
+      "x_coordinate": "5.",
+      "y_coordinate": "61.25"
+    },
+    {
+      "id": "288",
+      "x_coordinate": "3.75",
+      "y_coordinate": "61.25"
+    },
+    {
+      "id": "289",
+      "x_coordinate": "3.75",
+      "y_coordinate": "60."
+    },
+    {
+      "id": "290",
+      "x_coordinate": "2.",
+      "y_coordinate": "62.5"
+    },
+    {
+      "id": "291",
+      "x_coordinate": "2.",
+      "y_coordinate": "61.25"
+    },
+    {
+      "id": "292",
+      "x_coordinate": "2.",
+      "y_coordinate": "60."
+    },
+    {
+      "id": "293",
+      "x_coordinate": "10.",
+      "y_coordinate": "67.5"
+    },
+    {
+      "id": "294",
+      "x_coordinate": "10.",
+      "y_coordinate": "65."
+    },
+    {
+      "id": "295",
+      "x_coordinate": "15.",
+      "y_coordinate": "65."
+    },
+    {
+      "id": "296",
+      "x_coordinate": "10.",
+      "y_coordinate": "62.5"
+    },
+    {
+      "id": "297",
+      "x_coordinate": "10.",
+      "y_coordinate": "60."
+    },
+    {
+      "id": "298",
+      "x_coordinate": "15.",
+      "y_coordinate": "60."
+    },
+    {
+      "id": "299",
+      "x_coordinate": "20.",
+      "y_coordinate": "60."
+    },
+    {
+      "id": "300",
+      "x_coordinate": "25.",
+      "y_coordinate": "60."
+    },
+    {
+      "id": "301",
+      "x_coordinate": "25.",
+      "y_coordinate": "65."
+    },
+    {
+      "id": "302",
+      "x_coordinate": "20.",
+      "y_coordinate": "65."
+    },
+    {
+      "id": "303",
+      "x_coordinate": "30.",
+      "y_coordinate": "65."
+    },
+    {
+      "id": "304",
+      "x_coordinate": "30.",
+      "y_coordinate": "60."
+    },
+    {
+      "id": "305",
+      "x_coordinate": "40.",
+      "y_coordinate": "60."
+    },
+    {
+      "id": "306",
+      "x_coordinate": "50.",
+      "y_coordinate": "60."
+    },
+    {
+      "id": "307",
+      "x_coordinate": "60.",
+      "y_coordinate": "60."
+    },
+    {
+      "id": "308",
+      "x_coordinate": "70.",
+      "y_coordinate": "60."
+    },
+    {
+      "id": "309",
+      "x_coordinate": "80.",
+      "y_coordinate": "60."
+    },
+    {
+      "id": "310",
+      "x_coordinate": "90.",
+      "y_coordinate": "60."
+    },
+    {
+      "id": "311",
+      "x_coordinate": "100.",
+      "y_coordinate": "60."
+    },
+    {
+      "id": "312",
+      "x_coordinate": "3.75",
+      "y_coordinate": "75.6829987"
+    },
+    {
+      "id": "313",
+      "x_coordinate": "2.",
+      "y_coordinate": "76."
+    },
+    {
+      "id": "314",
+      "x_coordinate": "6.25",
+      "y_coordinate": "72.5"
+    },
+    {
+      "id": "315",
+      "x_coordinate": "6.25",
+      "y_coordinate": "73.75"
+    },
+    {
+      "id": "316",
+      "x_coordinate": "6.25",
+      "y_coordinate": "75.3379974"
+    },
+    {
+      "id": "317",
+      "x_coordinate": "7.5",
+      "y_coordinate": "75.2129974"
+    },
+    {
+      "id": "318",
+      "x_coordinate": "7.5",
+      "y_coordinate": "73.75"
+    },
+    {
+      "id": "319",
+      "x_coordinate": "8.75",
+      "y_coordinate": "75.1210022"
+    },
+    {
+      "id": "320",
+      "x_coordinate": "8.75",
+      "y_coordinate": "73.75"
+    },
+    {
+      "id": "321",
+      "x_coordinate": "8.75",
+      "y_coordinate": "72.5"
+    },
+    {
+      "id": "322",
+      "x_coordinate": "7.5",
+      "y_coordinate": "72.5"
+    },
+    {
+      "id": "323",
+      "x_coordinate": "7.5",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "324",
+      "x_coordinate": "2.",
+      "y_coordinate": "73.75"
+    },
+    {
+      "id": "325",
+      "x_coordinate": "2.",
+      "y_coordinate": "75."
+    },
+    {
+      "id": "326",
+      "x_coordinate": "5.",
+      "y_coordinate": "75.4950027"
+    },
+    {
+      "id": "327",
+      "x_coordinate": "3.75",
+      "y_coordinate": "73.75"
+    },
+    {
+      "id": "328",
+      "x_coordinate": "5.",
+      "y_coordinate": "73.75"
+    },
+    {
+      "id": "329",
+      "x_coordinate": "3.75",
+      "y_coordinate": "75."
+    },
+    {
+      "id": "330",
+      "x_coordinate": "5.",
+      "y_coordinate": "72.5"
+    },
+    {
+      "id": "331",
+      "x_coordinate": "3.75",
+      "y_coordinate": "72.5"
+    },
+    {
+      "id": "332",
+      "x_coordinate": "5.",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "333",
+      "x_coordinate": "5.",
+      "y_coordinate": "71.25"
+    },
+    {
+      "id": "334",
+      "x_coordinate": "3.75",
+      "y_coordinate": "71.25"
+    },
+    {
+      "id": "335",
+      "x_coordinate": "3.75",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "336",
+      "x_coordinate": "2.",
+      "y_coordinate": "72.5"
+    },
+    {
+      "id": "337",
+      "x_coordinate": "2.",
+      "y_coordinate": "71.25"
+    },
+    {
+      "id": "338",
+      "x_coordinate": "2.",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "339",
+      "x_coordinate": "16.25",
+      "y_coordinate": "72.5"
+    },
+    {
+      "id": "340",
+      "x_coordinate": "16.25",
+      "y_coordinate": "75.2809982"
+    },
+    {
+      "id": "341",
+      "x_coordinate": "16.25",
+      "y_coordinate": "73.75"
+    },
+    {
+      "id": "342",
+      "x_coordinate": "17.5",
+      "y_coordinate": "73.75"
+    },
+    {
+      "id": "343",
+      "x_coordinate": "17.5",
+      "y_coordinate": "75.4309998"
+    },
+    {
+      "id": "344",
+      "x_coordinate": "18.75",
+      "y_coordinate": "75.6179962"
+    },
+    {
+      "id": "345",
+      "x_coordinate": "18.75",
+      "y_coordinate": "73.75"
+    },
+    {
+      "id": "346",
+      "x_coordinate": "18.75",
+      "y_coordinate": "72.5"
+    },
+    {
+      "id": "347",
+      "x_coordinate": "17.5",
+      "y_coordinate": "72.5"
+    },
+    {
+      "id": "348",
+      "x_coordinate": "17.5",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "349",
+      "x_coordinate": "11.25",
+      "y_coordinate": "73.75"
+    },
+    {
+      "id": "350",
+      "x_coordinate": "10.",
+      "y_coordinate": "75.0619965"
+    },
+    {
+      "id": "351",
+      "x_coordinate": "10.",
+      "y_coordinate": "73.75"
+    },
+    {
+      "id": "352",
+      "x_coordinate": "11.25",
+      "y_coordinate": "75.0360031"
+    },
+    {
+      "id": "353",
+      "x_coordinate": "12.5",
+      "y_coordinate": "73.75"
+    },
+    {
+      "id": "354",
+      "x_coordinate": "12.5",
+      "y_coordinate": "75.0449982"
+    },
+    {
+      "id": "355",
+      "x_coordinate": "15.",
+      "y_coordinate": "75.1669998"
+    },
+    {
+      "id": "356",
+      "x_coordinate": "13.75",
+      "y_coordinate": "73.75"
+    },
+    {
+      "id": "357",
+      "x_coordinate": "15.",
+      "y_coordinate": "73.75"
+    },
+    {
+      "id": "358",
+      "x_coordinate": "13.75",
+      "y_coordinate": "75.0879974"
+    },
+    {
+      "id": "359",
+      "x_coordinate": "15.",
+      "y_coordinate": "72.5"
+    },
+    {
+      "id": "360",
+      "x_coordinate": "15.",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "361",
+      "x_coordinate": "13.75",
+      "y_coordinate": "72.5"
+    },
+    {
+      "id": "362",
+      "x_coordinate": "12.5",
+      "y_coordinate": "72.5"
+    },
+    {
+      "id": "363",
+      "x_coordinate": "12.5",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "364",
+      "x_coordinate": "11.25",
+      "y_coordinate": "72.5"
+    },
+    {
+      "id": "365",
+      "x_coordinate": "10.",
+      "y_coordinate": "72.5"
+    },
+    {
+      "id": "366",
+      "x_coordinate": "10.",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "367",
+      "x_coordinate": "23.75",
+      "y_coordinate": "76.7460022"
+    },
+    {
+      "id": "368",
+      "x_coordinate": "22.5",
+      "y_coordinate": "76.4059982"
+    },
+    {
+      "id": "369",
+      "x_coordinate": "21.25",
+      "y_coordinate": "76.1050034"
+    },
+    {
+      "id": "370",
+      "x_coordinate": "20.",
+      "y_coordinate": "75.8420029"
+    },
+    {
+      "id": "371",
+      "x_coordinate": "28.75",
+      "y_coordinate": "76.25"
+    },
+    {
+      "id": "372",
+      "x_coordinate": "27.5",
+      "y_coordinate": "76.25"
+    },
+    {
+      "id": "373",
+      "x_coordinate": "26.25",
+      "y_coordinate": "76.25"
+    },
+    {
+      "id": "374",
+      "x_coordinate": "25.",
+      "y_coordinate": "76.25"
+    },
+    {
+      "id": "375",
+      "x_coordinate": "25.",
+      "y_coordinate": "77.1259995"
+    },
+    {
+      "id": "376",
+      "x_coordinate": "26.25",
+      "y_coordinate": "77.5459976"
+    },
+    {
+      "id": "377",
+      "x_coordinate": "28.75",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "378",
+      "x_coordinate": "27.5",
+      "y_coordinate": "78.0080032"
+    },
+    {
+      "id": "379",
+      "x_coordinate": "28.75",
+      "y_coordinate": "78.5110016"
+    },
+    {
+      "id": "380",
+      "x_coordinate": "26.25",
+      "y_coordinate": "75."
+    },
+    {
+      "id": "381",
+      "x_coordinate": "28.75",
+      "y_coordinate": "75."
+    },
+    {
+      "id": "382",
+      "x_coordinate": "27.5",
+      "y_coordinate": "75."
+    },
+    {
+      "id": "383",
+      "x_coordinate": "27.5",
+      "y_coordinate": "72.5"
+    },
+    {
+      "id": "384",
+      "x_coordinate": "27.5",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "385",
+      "x_coordinate": "20.",
+      "y_coordinate": "75."
+    },
+    {
+      "id": "386",
+      "x_coordinate": "20.",
+      "y_coordinate": "73.75"
+    },
+    {
+      "id": "387",
+      "x_coordinate": "21.25",
+      "y_coordinate": "73.75"
+    },
+    {
+      "id": "388",
+      "x_coordinate": "21.25",
+      "y_coordinate": "75."
+    },
+    {
+      "id": "389",
+      "x_coordinate": "25.",
+      "y_coordinate": "75."
+    },
+    {
+      "id": "390",
+      "x_coordinate": "23.75",
+      "y_coordinate": "75."
+    },
+    {
+      "id": "391",
+      "x_coordinate": "22.5",
+      "y_coordinate": "75."
+    },
+    {
+      "id": "392",
+      "x_coordinate": "22.5",
+      "y_coordinate": "73.75"
+    },
+    {
+      "id": "393",
+      "x_coordinate": "25.",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "394",
+      "x_coordinate": "25.",
+      "y_coordinate": "72.5"
+    },
+    {
+      "id": "395",
+      "x_coordinate": "22.5",
+      "y_coordinate": "72.5"
+    },
+    {
+      "id": "396",
+      "x_coordinate": "22.5",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "397",
+      "x_coordinate": "21.25",
+      "y_coordinate": "72.5"
+    },
+    {
+      "id": "398",
+      "x_coordinate": "20.",
+      "y_coordinate": "72.5"
+    },
+    {
+      "id": "399",
+      "x_coordinate": "20.",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "400",
+      "x_coordinate": "33.75",
+      "y_coordinate": "78.75"
+    },
+    {
+      "id": "401",
+      "x_coordinate": "33.75",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "402",
+      "x_coordinate": "30.",
+      "y_coordinate": "76.25"
+    },
+    {
+      "id": "403",
+      "x_coordinate": "32.5",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "404",
+      "x_coordinate": "32.5",
+      "y_coordinate": "78.75"
+    },
+    {
+      "id": "405",
+      "x_coordinate": "31.25",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "406",
+      "x_coordinate": "30.",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "407",
+      "x_coordinate": "31.25",
+      "y_coordinate": "78.75"
+    },
+    {
+      "id": "408",
+      "x_coordinate": "30.",
+      "y_coordinate": "79.0569992"
+    },
+    {
+      "id": "409",
+      "x_coordinate": "35.",
+      "y_coordinate": "78.75"
+    },
+    {
+      "id": "410",
+      "x_coordinate": "35.",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "411",
+      "x_coordinate": "37.5",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "412",
+      "x_coordinate": "37.5",
+      "y_coordinate": "75."
+    },
+    {
+      "id": "413",
+      "x_coordinate": "35.",
+      "y_coordinate": "75."
+    },
+    {
+      "id": "414",
+      "x_coordinate": "32.5",
+      "y_coordinate": "75."
+    },
+    {
+      "id": "415",
+      "x_coordinate": "30.",
+      "y_coordinate": "75."
+    },
+    {
+      "id": "416",
+      "x_coordinate": "30.",
+      "y_coordinate": "72.5"
+    },
+    {
+      "id": "417",
+      "x_coordinate": "30.",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "418",
+      "x_coordinate": "35.",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "419",
+      "x_coordinate": "40.",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "420",
+      "x_coordinate": "40.",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "421",
+      "x_coordinate": "45.",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "422",
+      "x_coordinate": "45.",
+      "y_coordinate": "75."
+    },
+    {
+      "id": "423",
+      "x_coordinate": "40.",
+      "y_coordinate": "75."
+    },
+    {
+      "id": "424",
+      "x_coordinate": "50.",
+      "y_coordinate": "75."
+    },
+    {
+      "id": "425",
+      "x_coordinate": "50.",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "426",
+      "x_coordinate": "60.",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "427",
+      "x_coordinate": "70.",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "428",
+      "x_coordinate": "80.",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "429",
+      "x_coordinate": "90.",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "430",
+      "x_coordinate": "100.",
+      "y_coordinate": "70."
+    },
+    {
+      "id": "431",
+      "x_coordinate": "36.25",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "432",
+      "x_coordinate": "36.25",
+      "y_coordinate": "81.25"
+    },
+    {
+      "id": "433",
+      "x_coordinate": "36.25",
+      "y_coordinate": "82.3740005"
+    },
+    {
+      "id": "434",
+      "x_coordinate": "38.75",
+      "y_coordinate": "83.8259964"
+    },
+    {
+      "id": "435",
+      "x_coordinate": "37.5",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "436",
+      "x_coordinate": "37.5",
+      "y_coordinate": "83.0960007"
+    },
+    {
+      "id": "437",
+      "x_coordinate": "37.5",
+      "y_coordinate": "81.25"
+    },
+    {
+      "id": "438",
+      "x_coordinate": "38.75",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "439",
+      "x_coordinate": "38.75",
+      "y_coordinate": "81.25"
+    },
+    {
+      "id": "440",
+      "x_coordinate": "38.75",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "441",
+      "x_coordinate": "35.",
+      "y_coordinate": "81.6620026"
+    },
+    {
+      "id": "442",
+      "x_coordinate": "33.75",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "443",
+      "x_coordinate": "35.",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "444",
+      "x_coordinate": "33.75",
+      "y_coordinate": "80.9580002"
+    },
+    {
+      "id": "445",
+      "x_coordinate": "32.5",
+      "y_coordinate": "80.2799988"
+    },
+    {
+      "id": "446",
+      "x_coordinate": "31.25",
+      "y_coordinate": "79.6470032"
+    },
+    {
+      "id": "447",
+      "x_coordinate": "43.75",
+      "y_coordinate": "86.8399963"
+    },
+    {
+      "id": "448",
+      "x_coordinate": "42.5",
+      "y_coordinate": "86.072998"
+    },
+    {
+      "id": "449",
+      "x_coordinate": "47.5",
+      "y_coordinate": "86.25"
+    },
+    {
+      "id": "450",
+      "x_coordinate": "46.25",
+      "y_coordinate": "86.25"
+    },
+    {
+      "id": "451",
+      "x_coordinate": "45.",
+      "y_coordinate": "86.25"
+    },
+    {
+      "id": "452",
+      "x_coordinate": "46.25",
+      "y_coordinate": "87.5"
+    },
+    {
+      "id": "453",
+      "x_coordinate": "45.",
+      "y_coordinate": "87.6179962"
+    },
+    {
+      "id": "454",
+      "x_coordinate": "46.25",
+      "y_coordinate": "88.4049988"
+    },
+    {
+      "id": "455",
+      "x_coordinate": "48.75",
+      "y_coordinate": "87.5"
+    },
+    {
+      "id": "456",
+      "x_coordinate": "47.5",
+      "y_coordinate": "87.5"
+    },
+    {
+      "id": "457",
+      "x_coordinate": "47.5",
+      "y_coordinate": "89.2020035"
+    },
+    {
+      "id": "458",
+      "x_coordinate": "48.75",
+      "y_coordinate": "88.75"
+    },
+    {
+      "id": "459",
+      "x_coordinate": "46.25",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "460",
+      "x_coordinate": "47.5",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "461",
+      "x_coordinate": "47.5",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "462",
+      "x_coordinate": "47.5",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "463",
+      "x_coordinate": "41.25",
+      "y_coordinate": "85.314003"
+    },
+    {
+      "id": "464",
+      "x_coordinate": "40.",
+      "y_coordinate": "83.75"
+    },
+    {
+      "id": "465",
+      "x_coordinate": "41.25",
+      "y_coordinate": "83.75"
+    },
+    {
+      "id": "466",
+      "x_coordinate": "40.",
+      "y_coordinate": "84.5650024"
+    },
+    {
+      "id": "467",
+      "x_coordinate": "42.5",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "468",
+      "x_coordinate": "42.5",
+      "y_coordinate": "83.75"
+    },
+    {
+      "id": "469",
+      "x_coordinate": "45.",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "470",
+      "x_coordinate": "43.75",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "471",
+      "x_coordinate": "43.75",
+      "y_coordinate": "83.75"
+    },
+    {
+      "id": "472",
+      "x_coordinate": "45.",
+      "y_coordinate": "83.75"
+    },
+    {
+      "id": "473",
+      "x_coordinate": "45.",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "474",
+      "x_coordinate": "45.",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "475",
+      "x_coordinate": "43.75",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "476",
+      "x_coordinate": "42.5",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "477",
+      "x_coordinate": "41.25",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "478",
+      "x_coordinate": "40.",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "479",
+      "x_coordinate": "40.",
+      "y_coordinate": "81.25"
+    },
+    {
+      "id": "480",
+      "x_coordinate": "40.",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "481",
+      "x_coordinate": "42.5",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "482",
+      "x_coordinate": "52.5",
+      "y_coordinate": "87.5"
+    },
+    {
+      "id": "483",
+      "x_coordinate": "52.5",
+      "y_coordinate": "88.75"
+    },
+    {
+      "id": "484",
+      "x_coordinate": "50.",
+      "y_coordinate": "87.5"
+    },
+    {
+      "id": "485",
+      "x_coordinate": "51.25",
+      "y_coordinate": "87.5"
+    },
+    {
+      "id": "486",
+      "x_coordinate": "50.",
+      "y_coordinate": "88.75"
+    },
+    {
+      "id": "487",
+      "x_coordinate": "51.25",
+      "y_coordinate": "88.75"
+    },
+    {
+      "id": "488",
+      "x_coordinate": "55.",
+      "y_coordinate": "87.5"
+    },
+    {
+      "id": "489",
+      "x_coordinate": "55.",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "490",
+      "x_coordinate": "52.5",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "491",
+      "x_coordinate": "50.",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "492",
+      "x_coordinate": "50.",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "493",
+      "x_coordinate": "50.",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "494",
+      "x_coordinate": "55.",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "495",
+      "x_coordinate": "60.",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "496",
+      "x_coordinate": "65.",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "497",
+      "x_coordinate": "65.",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "498",
+      "x_coordinate": "60.",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "499",
+      "x_coordinate": "70.",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "500",
+      "x_coordinate": "70.",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "501",
+      "x_coordinate": "80.",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "502",
+      "x_coordinate": "90.",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "503",
+      "x_coordinate": "100.",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "504",
+      "x_coordinate": "48.75",
+      "y_coordinate": "90.0090027"
+    },
+    {
+      "id": "505",
+      "x_coordinate": "58.75",
+      "y_coordinate": "96.8410034"
+    },
+    {
+      "id": "506",
+      "x_coordinate": "57.5",
+      "y_coordinate": "95.9499969"
+    },
+    {
+      "id": "507",
+      "x_coordinate": "56.25",
+      "y_coordinate": "92.5"
+    },
+    {
+      "id": "508",
+      "x_coordinate": "56.25",
+      "y_coordinate": "93.75"
+    },
+    {
+      "id": "509",
+      "x_coordinate": "56.25",
+      "y_coordinate": "95.0690002"
+    },
+    {
+      "id": "510",
+      "x_coordinate": "57.5",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "511",
+      "x_coordinate": "57.5",
+      "y_coordinate": "93.75"
+    },
+    {
+      "id": "512",
+      "x_coordinate": "58.75",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "513",
+      "x_coordinate": "58.75",
+      "y_coordinate": "93.75"
+    },
+    {
+      "id": "514",
+      "x_coordinate": "58.75",
+      "y_coordinate": "92.5"
+    },
+    {
+      "id": "515",
+      "x_coordinate": "57.5",
+      "y_coordinate": "92.5"
+    },
+    {
+      "id": "516",
+      "x_coordinate": "57.5",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "517",
+      "x_coordinate": "53.75",
+      "y_coordinate": "93.3399963"
+    },
+    {
+      "id": "518",
+      "x_coordinate": "55.",
+      "y_coordinate": "94.1989975"
+    },
+    {
+      "id": "519",
+      "x_coordinate": "55.",
+      "y_coordinate": "92.5"
+    },
+    {
+      "id": "520",
+      "x_coordinate": "53.75",
+      "y_coordinate": "92.5"
+    },
+    {
+      "id": "521",
+      "x_coordinate": "55.",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "522",
+      "x_coordinate": "55.",
+      "y_coordinate": "91.25"
+    },
+    {
+      "id": "523",
+      "x_coordinate": "53.75",
+      "y_coordinate": "91.25"
+    },
+    {
+      "id": "524",
+      "x_coordinate": "53.75",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "525",
+      "x_coordinate": "52.5",
+      "y_coordinate": "92.4919968"
+    },
+    {
+      "id": "526",
+      "x_coordinate": "52.5",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "527",
+      "x_coordinate": "52.5",
+      "y_coordinate": "91.25"
+    },
+    {
+      "id": "528",
+      "x_coordinate": "51.25",
+      "y_coordinate": "91.6539993"
+    },
+    {
+      "id": "529",
+      "x_coordinate": "50.",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "530",
+      "x_coordinate": "51.25",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "531",
+      "x_coordinate": "50.",
+      "y_coordinate": "90.8259964"
+    },
+    {
+      "id": "532",
+      "x_coordinate": "63.75",
+      "y_coordinate": "98.75"
+    },
+    {
+      "id": "533",
+      "x_coordinate": "63.75",
+      "y_coordinate": "97.5"
+    },
+    {
+      "id": "534",
+      "x_coordinate": "62.5",
+      "y_coordinate": "96.25"
+    },
+    {
+      "id": "535",
+      "x_coordinate": "61.25",
+      "y_coordinate": "96.25"
+    },
+    {
+      "id": "536",
+      "x_coordinate": "60.",
+      "y_coordinate": "96.25"
+    },
+    {
+      "id": "537",
+      "x_coordinate": "62.5",
+      "y_coordinate": "98.75"
+    },
+    {
+      "id": "538",
+      "x_coordinate": "62.5",
+      "y_coordinate": "97.5"
+    },
+    {
+      "id": "539",
+      "x_coordinate": "61.25",
+      "y_coordinate": "97.5"
+    },
+    {
+      "id": "540",
+      "x_coordinate": "60.",
+      "y_coordinate": "97.7450027"
+    },
+    {
+      "id": "541",
+      "x_coordinate": "61.25",
+      "y_coordinate": "98.6589966"
+    },
+    {
+      "id": "542",
+      "x_coordinate": "65.",
+      "y_coordinate": "98.75"
+    },
+    {
+      "id": "543",
+      "x_coordinate": "65.",
+      "y_coordinate": "97.5"
+    },
+    {
+      "id": "544",
+      "x_coordinate": "67.5",
+      "y_coordinate": "97.5"
+    },
+    {
+      "id": "545",
+      "x_coordinate": "67.5",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "546",
+      "x_coordinate": "61.25",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "547",
+      "x_coordinate": "60.",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "548",
+      "x_coordinate": "60.",
+      "y_coordinate": "93.75"
+    },
+    {
+      "id": "549",
+      "x_coordinate": "65.",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "550",
+      "x_coordinate": "62.5",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "551",
+      "x_coordinate": "65.",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "552",
+      "x_coordinate": "65.",
+      "y_coordinate": "92.5"
+    },
+    {
+      "id": "553",
+      "x_coordinate": "60.",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "554",
+      "x_coordinate": "62.5",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "555",
+      "x_coordinate": "62.5",
+      "y_coordinate": "92.5"
+    },
+    {
+      "id": "556",
+      "x_coordinate": "60.",
+      "y_coordinate": "92.5"
+    },
+    {
+      "id": "557",
+      "x_coordinate": "70.",
+      "y_coordinate": "97.5"
+    },
+    {
+      "id": "558",
+      "x_coordinate": "70.",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "559",
+      "x_coordinate": "75.",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "560",
+      "x_coordinate": "75.",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "561",
+      "x_coordinate": "70.",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "562",
+      "x_coordinate": "80.",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "563",
+      "x_coordinate": "80.",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "564",
+      "x_coordinate": "90.",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "565",
+      "x_coordinate": "100.",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "566",
+      "x_coordinate": "66.25",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "567",
+      "x_coordinate": "67.5",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "568",
+      "x_coordinate": "68.75",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "569",
+      "x_coordinate": "65.",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "570",
+      "x_coordinate": "63.75",
+      "y_coordinate": "100.523003"
+    },
+    {
+      "id": "571",
+      "x_coordinate": "62.5",
+      "y_coordinate": "99.5849991"
+    },
+    {
+      "id": "572",
+      "x_coordinate": "77.5",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "573",
+      "x_coordinate": "75.",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "574",
+      "x_coordinate": "70.",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "575",
+      "x_coordinate": "72.5",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "576",
+      "x_coordinate": "80.",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "577",
+      "x_coordinate": "85.",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "578",
+      "x_coordinate": "90.",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "579",
+      "x_coordinate": "95.",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "580",
+      "x_coordinate": "100.",
+      "y_coordinate": "100."
+    }
+  ],
+  "34": [
+    {
+      "id": "1",
+      "x_coordinate": "3.75",
+      "y_coordinate": "78.75"
+    },
+    {
+      "id": "2",
+      "x_coordinate": "3.75",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "3",
+      "x_coordinate": "3.75",
+      "y_coordinate": "75.6829987"
+    },
+    {
+      "id": "4",
+      "x_coordinate": "2.",
+      "y_coordinate": "76."
+    },
+    {
+      "id": "5",
+      "x_coordinate": "2.",
+      "y_coordinate": "78.75"
+    },
+    {
+      "id": "6",
+      "x_coordinate": "2.",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "7",
+      "x_coordinate": "8.75",
+      "y_coordinate": "76.25"
+    },
+    {
+      "id": "8",
+      "x_coordinate": "7.5",
+      "y_coordinate": "76.25"
+    },
+    {
+      "id": "9",
+      "x_coordinate": "5.",
+      "y_coordinate": "76.25"
+    },
+    {
+      "id": "10",
+      "x_coordinate": "6.25",
+      "y_coordinate": "76.25"
+    },
+    {
+      "id": "11",
+      "x_coordinate": "5.",
+      "y_coordinate": "78.75"
+    },
+    {
+      "id": "12",
+      "x_coordinate": "5.",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "13",
+      "x_coordinate": "6.25",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "14",
+      "x_coordinate": "7.5",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "15",
+      "x_coordinate": "8.75",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "16",
+      "x_coordinate": "6.25",
+      "y_coordinate": "75.3379974"
+    },
+    {
+      "id": "17",
+      "x_coordinate": "7.5",
+      "y_coordinate": "75.2129974"
+    },
+    {
+      "id": "18",
+      "x_coordinate": "8.75",
+      "y_coordinate": "75.1210022"
+    },
+    {
+      "id": "19",
+      "x_coordinate": "5.",
+      "y_coordinate": "75.4950027"
+    },
+    {
+      "id": "20",
+      "x_coordinate": "13.75",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "21",
+      "x_coordinate": "13.75",
+      "y_coordinate": "76.25"
+    },
+    {
+      "id": "22",
+      "x_coordinate": "12.5",
+      "y_coordinate": "76.25"
+    },
+    {
+      "id": "23",
+      "x_coordinate": "10.",
+      "y_coordinate": "76.25"
+    },
+    {
+      "id": "24",
+      "x_coordinate": "11.25",
+      "y_coordinate": "76.25"
+    },
+    {
+      "id": "25",
+      "x_coordinate": "10.",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "26",
+      "x_coordinate": "11.25",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "27",
+      "x_coordinate": "12.5",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "28",
+      "x_coordinate": "18.75",
+      "y_coordinate": "76.25"
+    },
+    {
+      "id": "29",
+      "x_coordinate": "17.5",
+      "y_coordinate": "76.25"
+    },
+    {
+      "id": "30",
+      "x_coordinate": "16.25",
+      "y_coordinate": "76.25"
+    },
+    {
+      "id": "31",
+      "x_coordinate": "15.",
+      "y_coordinate": "76.25"
+    },
+    {
+      "id": "32",
+      "x_coordinate": "15.",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "33",
+      "x_coordinate": "16.25",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "34",
+      "x_coordinate": "17.5",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "35",
+      "x_coordinate": "18.75",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "36",
+      "x_coordinate": "16.25",
+      "y_coordinate": "75.2809982"
+    },
+    {
+      "id": "37",
+      "x_coordinate": "17.5",
+      "y_coordinate": "75.4309998"
+    },
+    {
+      "id": "38",
+      "x_coordinate": "18.75",
+      "y_coordinate": "75.6179962"
+    },
+    {
+      "id": "39",
+      "x_coordinate": "10.",
+      "y_coordinate": "75.0619965"
+    },
+    {
+      "id": "40",
+      "x_coordinate": "11.25",
+      "y_coordinate": "75.0360031"
+    },
+    {
+      "id": "41",
+      "x_coordinate": "12.5",
+      "y_coordinate": "75.0449982"
+    },
+    {
+      "id": "42",
+      "x_coordinate": "15.",
+      "y_coordinate": "75.1669998"
+    },
+    {
+      "id": "43",
+      "x_coordinate": "13.75",
+      "y_coordinate": "75.0879974"
+    },
+    {
+      "id": "44",
+      "x_coordinate": "23.75",
+      "y_coordinate": "78.75"
+    },
+    {
+      "id": "45",
+      "x_coordinate": "23.75",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "46",
+      "x_coordinate": "23.75",
+      "y_coordinate": "76.7460022"
+    },
+    {
+      "id": "47",
+      "x_coordinate": "22.5",
+      "y_coordinate": "76.4059982"
+    },
+    {
+      "id": "48",
+      "x_coordinate": "21.25",
+      "y_coordinate": "76.1050034"
+    },
+    {
+      "id": "49",
+      "x_coordinate": "20.",
+      "y_coordinate": "75.8420029"
+    },
+    {
+      "id": "50",
+      "x_coordinate": "22.5",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "51",
+      "x_coordinate": "22.5",
+      "y_coordinate": "78.75"
+    },
+    {
+      "id": "52",
+      "x_coordinate": "20.",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "53",
+      "x_coordinate": "21.25",
+      "y_coordinate": "77.5"
+    },
+    {
+      "id": "54",
+      "x_coordinate": "20.",
+      "y_coordinate": "78.75"
+    },
+    {
+      "id": "55",
+      "x_coordinate": "21.25",
+      "y_coordinate": "78.75"
+    },
+    {
+      "id": "56",
+      "x_coordinate": "25.",
+      "y_coordinate": "77.1259995"
+    },
+    {
+      "id": "57",
+      "x_coordinate": "26.25",
+      "y_coordinate": "77.5459976"
+    },
+    {
+      "id": "58",
+      "x_coordinate": "25.",
+      "y_coordinate": "78.75"
+    },
+    {
+      "id": "59",
+      "x_coordinate": "26.25",
+      "y_coordinate": "78.75"
+    },
+    {
+      "id": "60",
+      "x_coordinate": "27.5",
+      "y_coordinate": "78.0080032"
+    },
+    {
+      "id": "61",
+      "x_coordinate": "27.5",
+      "y_coordinate": "78.75"
+    },
+    {
+      "id": "62",
+      "x_coordinate": "28.75",
+      "y_coordinate": "78.5110016"
+    },
+    {
+      "id": "63",
+      "x_coordinate": "30.",
+      "y_coordinate": "79.0569992"
+    },
+    {
+      "id": "64",
+      "x_coordinate": "3.75",
+      "y_coordinate": "88.75"
+    },
+    {
+      "id": "65",
+      "x_coordinate": "3.75",
+      "y_coordinate": "87.5"
+    },
+    {
+      "id": "66",
+      "x_coordinate": "3.75",
+      "y_coordinate": "86.25"
+    },
+    {
+      "id": "67",
+      "x_coordinate": "2.",
+      "y_coordinate": "86.25"
+    },
+    {
+      "id": "68",
+      "x_coordinate": "2.",
+      "y_coordinate": "87.5"
+    },
+    {
+      "id": "69",
+      "x_coordinate": "2.",
+      "y_coordinate": "88.75"
+    },
+    {
+      "id": "70",
+      "x_coordinate": "5.",
+      "y_coordinate": "86.25"
+    },
+    {
+      "id": "71",
+      "x_coordinate": "5.",
+      "y_coordinate": "88.75"
+    },
+    {
+      "id": "72",
+      "x_coordinate": "5.",
+      "y_coordinate": "87.5"
+    },
+    {
+      "id": "73",
+      "x_coordinate": "7.5",
+      "y_coordinate": "87.5"
+    },
+    {
+      "id": "74",
+      "x_coordinate": "7.5",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "75",
+      "x_coordinate": "7.5",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "76",
+      "x_coordinate": "7.5",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "77",
+      "x_coordinate": "2.",
+      "y_coordinate": "83.75"
+    },
+    {
+      "id": "78",
+      "x_coordinate": "2.",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "79",
+      "x_coordinate": "5.",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "80",
+      "x_coordinate": "3.75",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "81",
+      "x_coordinate": "3.75",
+      "y_coordinate": "83.75"
+    },
+    {
+      "id": "82",
+      "x_coordinate": "5.",
+      "y_coordinate": "83.75"
+    },
+    {
+      "id": "83",
+      "x_coordinate": "5.",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "84",
+      "x_coordinate": "3.75",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "85",
+      "x_coordinate": "5.",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "86",
+      "x_coordinate": "5.",
+      "y_coordinate": "81.25"
+    },
+    {
+      "id": "87",
+      "x_coordinate": "3.75",
+      "y_coordinate": "81.25"
+    },
+    {
+      "id": "88",
+      "x_coordinate": "3.75",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "89",
+      "x_coordinate": "2.",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "90",
+      "x_coordinate": "2.",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "91",
+      "x_coordinate": "2.",
+      "y_coordinate": "81.25"
+    },
+    {
+      "id": "92",
+      "x_coordinate": "10.",
+      "y_coordinate": "87.5"
+    },
+    {
+      "id": "93",
+      "x_coordinate": "17.5",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "94",
+      "x_coordinate": "10.",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "95",
+      "x_coordinate": "10.",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "96",
+      "x_coordinate": "10.",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "97",
+      "x_coordinate": "12.5",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "98",
+      "x_coordinate": "15.",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "99",
+      "x_coordinate": "15.",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "100",
+      "x_coordinate": "26.25",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "101",
+      "x_coordinate": "27.5",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "102",
+      "x_coordinate": "27.5",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "103",
+      "x_coordinate": "27.5",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "104",
+      "x_coordinate": "27.5",
+      "y_coordinate": "81.25"
+    },
+    {
+      "id": "105",
+      "x_coordinate": "28.75",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "106",
+      "x_coordinate": "28.75",
+      "y_coordinate": "81.25"
+    },
+    {
+      "id": "107",
+      "x_coordinate": "28.75",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "108",
+      "x_coordinate": "20.",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "109",
+      "x_coordinate": "25.",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "110",
+      "x_coordinate": "22.5",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "111",
+      "x_coordinate": "23.75",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "112",
+      "x_coordinate": "25.",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "113",
+      "x_coordinate": "25.",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "114",
+      "x_coordinate": "20.",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "115",
+      "x_coordinate": "20.",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "116",
+      "x_coordinate": "21.25",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "117",
+      "x_coordinate": "22.5",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "118",
+      "x_coordinate": "22.5",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "119",
+      "x_coordinate": "30.",
+      "y_coordinate": "87.5"
+    },
+    {
+      "id": "120",
+      "x_coordinate": "32.5",
+      "y_coordinate": "87.5"
+    },
+    {
+      "id": "121",
+      "x_coordinate": "38.75",
+      "y_coordinate": "86.25"
+    },
+    {
+      "id": "122",
+      "x_coordinate": "37.5",
+      "y_coordinate": "86.25"
+    },
+    {
+      "id": "123",
+      "x_coordinate": "35.",
+      "y_coordinate": "87.5"
+    },
+    {
+      "id": "124",
+      "x_coordinate": "37.5",
+      "y_coordinate": "87.5"
+    },
+    {
+      "id": "125",
+      "x_coordinate": "38.75",
+      "y_coordinate": "87.5"
+    },
+    {
+      "id": "126",
+      "x_coordinate": "36.25",
+      "y_coordinate": "82.3740005"
+    },
+    {
+      "id": "127",
+      "x_coordinate": "36.25",
+      "y_coordinate": "83.75"
+    },
+    {
+      "id": "128",
+      "x_coordinate": "36.25",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "129",
+      "x_coordinate": "37.5",
+      "y_coordinate": "83.75"
+    },
+    {
+      "id": "130",
+      "x_coordinate": "37.5",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "131",
+      "x_coordinate": "38.75",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "132",
+      "x_coordinate": "38.75",
+      "y_coordinate": "83.8259964"
+    },
+    {
+      "id": "133",
+      "x_coordinate": "37.5",
+      "y_coordinate": "83.0960007"
+    },
+    {
+      "id": "134",
+      "x_coordinate": "30.",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "135",
+      "x_coordinate": "32.5",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "136",
+      "x_coordinate": "32.5",
+      "y_coordinate": "83.75"
+    },
+    {
+      "id": "137",
+      "x_coordinate": "35.",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "138",
+      "x_coordinate": "33.75",
+      "y_coordinate": "85."
+    },
+    {
+      "id": "139",
+      "x_coordinate": "33.75",
+      "y_coordinate": "83.75"
+    },
+    {
+      "id": "140",
+      "x_coordinate": "35.",
+      "y_coordinate": "83.75"
+    },
+    {
+      "id": "141",
+      "x_coordinate": "35.",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "142",
+      "x_coordinate": "33.75",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "143",
+      "x_coordinate": "35.",
+      "y_coordinate": "81.6620026"
+    },
+    {
+      "id": "144",
+      "x_coordinate": "33.75",
+      "y_coordinate": "80.9580002"
+    },
+    {
+      "id": "145",
+      "x_coordinate": "30.",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "146",
+      "x_coordinate": "32.5",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "147",
+      "x_coordinate": "31.25",
+      "y_coordinate": "82.5"
+    },
+    {
+      "id": "148",
+      "x_coordinate": "32.5",
+      "y_coordinate": "81.25"
+    },
+    {
+      "id": "149",
+      "x_coordinate": "32.5",
+      "y_coordinate": "80.2799988"
+    },
+    {
+      "id": "150",
+      "x_coordinate": "30.",
+      "y_coordinate": "81.25"
+    },
+    {
+      "id": "151",
+      "x_coordinate": "31.25",
+      "y_coordinate": "79.6470032"
+    },
+    {
+      "id": "152",
+      "x_coordinate": "31.25",
+      "y_coordinate": "81.25"
+    },
+    {
+      "id": "153",
+      "x_coordinate": "30.",
+      "y_coordinate": "80."
+    },
+    {
+      "id": "154",
+      "x_coordinate": "43.75",
+      "y_coordinate": "88.75"
+    },
+    {
+      "id": "155",
+      "x_coordinate": "43.75",
+      "y_coordinate": "87.5"
+    },
+    {
+      "id": "156",
+      "x_coordinate": "43.75",
+      "y_coordinate": "86.8399963"
+    },
+    {
+      "id": "157",
+      "x_coordinate": "42.5",
+      "y_coordinate": "86.072998"
+    },
+    {
+      "id": "158",
+      "x_coordinate": "41.25",
+      "y_coordinate": "86.25"
+    },
+    {
+      "id": "159",
+      "x_coordinate": "40.",
+      "y_coordinate": "86.25"
+    },
+    {
+      "id": "160",
+      "x_coordinate": "40.",
+      "y_coordinate": "87.5"
+    },
+    {
+      "id": "161",
+      "x_coordinate": "41.25",
+      "y_coordinate": "87.5"
+    },
+    {
+      "id": "162",
+      "x_coordinate": "42.5",
+      "y_coordinate": "87.5"
+    },
+    {
+      "id": "163",
+      "x_coordinate": "42.5",
+      "y_coordinate": "88.75"
+    },
+    {
+      "id": "164",
+      "x_coordinate": "45.",
+      "y_coordinate": "87.6179962"
+    },
+    {
+      "id": "165",
+      "x_coordinate": "46.25",
+      "y_coordinate": "88.4049988"
+    },
+    {
+      "id": "166",
+      "x_coordinate": "45.",
+      "y_coordinate": "88.75"
+    },
+    {
+      "id": "167",
+      "x_coordinate": "47.5",
+      "y_coordinate": "89.2020035"
+    },
+    {
+      "id": "168",
+      "x_coordinate": "41.25",
+      "y_coordinate": "85.314003"
+    },
+    {
+      "id": "169",
+      "x_coordinate": "40.",
+      "y_coordinate": "84.5650024"
+    },
+    {
+      "id": "170",
+      "x_coordinate": "3.75",
+      "y_coordinate": "98.75"
+    },
+    {
+      "id": "171",
+      "x_coordinate": "3.75",
+      "y_coordinate": "97.5"
+    },
+    {
+      "id": "172",
+      "x_coordinate": "3.75",
+      "y_coordinate": "96.25"
+    },
+    {
+      "id": "173",
+      "x_coordinate": "2.",
+      "y_coordinate": "96.25"
+    },
+    {
+      "id": "174",
+      "x_coordinate": "2.",
+      "y_coordinate": "97.5"
+    },
+    {
+      "id": "175",
+      "x_coordinate": "2.",
+      "y_coordinate": "98.75"
+    },
+    {
+      "id": "176",
+      "x_coordinate": "5.",
+      "y_coordinate": "96.25"
+    },
+    {
+      "id": "177",
+      "x_coordinate": "5.",
+      "y_coordinate": "98.75"
+    },
+    {
+      "id": "178",
+      "x_coordinate": "5.",
+      "y_coordinate": "97.5"
+    },
+    {
+      "id": "179",
+      "x_coordinate": "7.5",
+      "y_coordinate": "97.5"
+    },
+    {
+      "id": "180",
+      "x_coordinate": "7.5",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "181",
+      "x_coordinate": "7.5",
+      "y_coordinate": "92.5"
+    },
+    {
+      "id": "182",
+      "x_coordinate": "7.5",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "183",
+      "x_coordinate": "2.",
+      "y_coordinate": "93.75"
+    },
+    {
+      "id": "184",
+      "x_coordinate": "2.",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "185",
+      "x_coordinate": "5.",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "186",
+      "x_coordinate": "3.75",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "187",
+      "x_coordinate": "3.75",
+      "y_coordinate": "93.75"
+    },
+    {
+      "id": "188",
+      "x_coordinate": "5.",
+      "y_coordinate": "93.75"
+    },
+    {
+      "id": "189",
+      "x_coordinate": "5.",
+      "y_coordinate": "92.5"
+    },
+    {
+      "id": "190",
+      "x_coordinate": "3.75",
+      "y_coordinate": "92.5"
+    },
+    {
+      "id": "191",
+      "x_coordinate": "5.",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "192",
+      "x_coordinate": "5.",
+      "y_coordinate": "91.25"
+    },
+    {
+      "id": "193",
+      "x_coordinate": "3.75",
+      "y_coordinate": "91.25"
+    },
+    {
+      "id": "194",
+      "x_coordinate": "3.75",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "195",
+      "x_coordinate": "2.",
+      "y_coordinate": "92.5"
+    },
+    {
+      "id": "196",
+      "x_coordinate": "2.",
+      "y_coordinate": "91.25"
+    },
+    {
+      "id": "197",
+      "x_coordinate": "2.",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "198",
+      "x_coordinate": "10.",
+      "y_coordinate": "97.5"
+    },
+    {
+      "id": "199",
+      "x_coordinate": "10.",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "200",
+      "x_coordinate": "15.",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "201",
+      "x_coordinate": "10.",
+      "y_coordinate": "92.5"
+    },
+    {
+      "id": "202",
+      "x_coordinate": "10.",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "203",
+      "x_coordinate": "15.",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "204",
+      "x_coordinate": "20.",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "205",
+      "x_coordinate": "25.",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "206",
+      "x_coordinate": "20.",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "207",
+      "x_coordinate": "37.5",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "208",
+      "x_coordinate": "30.",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "209",
+      "x_coordinate": "30.",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "210",
+      "x_coordinate": "32.5",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "211",
+      "x_coordinate": "35.",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "212",
+      "x_coordinate": "35.",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "213",
+      "x_coordinate": "46.25",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "214",
+      "x_coordinate": "46.25",
+      "y_coordinate": "91.25"
+    },
+    {
+      "id": "215",
+      "x_coordinate": "46.25",
+      "y_coordinate": "92.5"
+    },
+    {
+      "id": "216",
+      "x_coordinate": "47.5",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "217",
+      "x_coordinate": "47.5",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "218",
+      "x_coordinate": "47.5",
+      "y_coordinate": "92.5"
+    },
+    {
+      "id": "219",
+      "x_coordinate": "47.5",
+      "y_coordinate": "91.25"
+    },
+    {
+      "id": "220",
+      "x_coordinate": "48.75",
+      "y_coordinate": "92.5"
+    },
+    {
+      "id": "221",
+      "x_coordinate": "48.75",
+      "y_coordinate": "91.25"
+    },
+    {
+      "id": "222",
+      "x_coordinate": "48.75",
+      "y_coordinate": "90.0090027"
+    },
+    {
+      "id": "223",
+      "x_coordinate": "40.",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "224",
+      "x_coordinate": "45.",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "225",
+      "x_coordinate": "42.5",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "226",
+      "x_coordinate": "43.75",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "227",
+      "x_coordinate": "45.",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "228",
+      "x_coordinate": "45.",
+      "y_coordinate": "91.25"
+    },
+    {
+      "id": "229",
+      "x_coordinate": "45.",
+      "y_coordinate": "92.5"
+    },
+    {
+      "id": "230",
+      "x_coordinate": "40.",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "231",
+      "x_coordinate": "42.5",
+      "y_coordinate": "90."
+    },
+    {
+      "id": "232",
+      "x_coordinate": "42.5",
+      "y_coordinate": "92.5"
+    },
+    {
+      "id": "233",
+      "x_coordinate": "40.",
+      "y_coordinate": "92.5"
+    },
+    {
+      "id": "234",
+      "x_coordinate": "53.75",
+      "y_coordinate": "97.5"
+    },
+    {
+      "id": "235",
+      "x_coordinate": "53.75",
+      "y_coordinate": "96.25"
+    },
+    {
+      "id": "236",
+      "x_coordinate": "52.5",
+      "y_coordinate": "96.25"
+    },
+    {
+      "id": "237",
+      "x_coordinate": "50.",
+      "y_coordinate": "97.5"
+    },
+    {
+      "id": "238",
+      "x_coordinate": "52.5",
+      "y_coordinate": "97.5"
+    },
+    {
+      "id": "239",
+      "x_coordinate": "58.75",
+      "y_coordinate": "96.8410034"
+    },
+    {
+      "id": "240",
+      "x_coordinate": "57.5",
+      "y_coordinate": "95.9499969"
+    },
+    {
+      "id": "241",
+      "x_coordinate": "56.25",
+      "y_coordinate": "96.25"
+    },
+    {
+      "id": "242",
+      "x_coordinate": "55.",
+      "y_coordinate": "96.25"
+    },
+    {
+      "id": "243",
+      "x_coordinate": "55.",
+      "y_coordinate": "97.5"
+    },
+    {
+      "id": "244",
+      "x_coordinate": "56.25",
+      "y_coordinate": "97.5"
+    },
+    {
+      "id": "245",
+      "x_coordinate": "57.5",
+      "y_coordinate": "97.5"
+    },
+    {
+      "id": "246",
+      "x_coordinate": "58.75",
+      "y_coordinate": "97.5"
+    },
+    {
+      "id": "247",
+      "x_coordinate": "57.5",
+      "y_coordinate": "98.75"
+    },
+    {
+      "id": "248",
+      "x_coordinate": "58.75",
+      "y_coordinate": "98.75"
+    },
+    {
+      "id": "249",
+      "x_coordinate": "56.25",
+      "y_coordinate": "95.0690002"
+    },
+    {
+      "id": "250",
+      "x_coordinate": "50.",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "251",
+      "x_coordinate": "50.",
+      "y_coordinate": "93.75"
+    },
+    {
+      "id": "252",
+      "x_coordinate": "51.25",
+      "y_coordinate": "93.75"
+    },
+    {
+      "id": "253",
+      "x_coordinate": "51.25",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "254",
+      "x_coordinate": "52.5",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "255",
+      "x_coordinate": "52.5",
+      "y_coordinate": "93.75"
+    },
+    {
+      "id": "256",
+      "x_coordinate": "53.75",
+      "y_coordinate": "93.3399963"
+    },
+    {
+      "id": "257",
+      "x_coordinate": "55.",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "258",
+      "x_coordinate": "53.75",
+      "y_coordinate": "95."
+    },
+    {
+      "id": "259",
+      "x_coordinate": "55.",
+      "y_coordinate": "94.1989975"
+    },
+    {
+      "id": "260",
+      "x_coordinate": "50.",
+      "y_coordinate": "92.5"
+    },
+    {
+      "id": "261",
+      "x_coordinate": "51.25",
+      "y_coordinate": "92.5"
+    },
+    {
+      "id": "262",
+      "x_coordinate": "52.5",
+      "y_coordinate": "92.4919968"
+    },
+    {
+      "id": "263",
+      "x_coordinate": "51.25",
+      "y_coordinate": "91.6539993"
+    },
+    {
+      "id": "264",
+      "x_coordinate": "50.",
+      "y_coordinate": "90.8259964"
+    },
+    {
+      "id": "265",
+      "x_coordinate": "60.",
+      "y_coordinate": "97.7450027"
+    },
+    {
+      "id": "266",
+      "x_coordinate": "61.25",
+      "y_coordinate": "98.6589966"
+    },
+    {
+      "id": "267",
+      "x_coordinate": "60.",
+      "y_coordinate": "98.75"
+    },
+    {
+      "id": "268",
+      "x_coordinate": "7.5",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "269",
+      "x_coordinate": "5.",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "270",
+      "x_coordinate": "3.75",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "271",
+      "x_coordinate": "2.",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "272",
+      "x_coordinate": "10.",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "273",
+      "x_coordinate": "15.",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "274",
+      "x_coordinate": "20.",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "275",
+      "x_coordinate": "30.",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "276",
+      "x_coordinate": "35.",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "277",
+      "x_coordinate": "40.",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "278",
+      "x_coordinate": "45.",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "279",
+      "x_coordinate": "57.5",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "280",
+      "x_coordinate": "58.75",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "281",
+      "x_coordinate": "50.",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "282",
+      "x_coordinate": "52.5",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "283",
+      "x_coordinate": "55.",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "284",
+      "x_coordinate": "62.5",
+      "y_coordinate": "99.5849991"
+    },
+    {
+      "id": "285",
+      "x_coordinate": "60.",
+      "y_coordinate": "100."
+    },
+    {
+      "id": "286",
+      "x_coordinate": "61.25",
+      "y_coordinate": "100."
+    }
+  ]
+}
